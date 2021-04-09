@@ -1,7 +1,6 @@
 
 
-
-test - For the first tine only, use these two commands for setup, after git is installed:
+For the first tine only, use these two commands for setup, after git is installed:
 
 $ git config --global user.name 'Pankaj Sharma'
 $ git config --global user.email 'pankaj.sharma@gmail.com'
